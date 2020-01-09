@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea16b9f1-c984-4422-9b85-643183ccb7f2" name="Default Changelist" comment="" />
+    <list default="true" id="ea16b9f1-c984-4422-9b85-643183ccb7f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WAAXOnsQrrpQwrBsoNRzRwOW52" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,9 +31,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="install" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="install" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v12.13.1/bin/node" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -50,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578582064625</updated>
       <workItem from="1578582066756" duration="349000" />
-      <workItem from="1578587016749" duration="126000" />
+      <workItem from="1578587016749" duration="414000" />
     </task>
     <servers />
   </component>
@@ -58,9 +82,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2023" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578587271725">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state x="2023" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3440.1413@0.27.3440.1413" timestamp="1578587271725" />
     <state x="2309" y="524" width="512" height="418" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578582190004">
       <screen x="0" y="27" width="3440" height="1413" />
     </state>
     <state x="2309" y="524" width="512" height="418" key="#com.intellij.fileTypes.FileTypeChooser/0.27.3440.1413@0.27.3440.1413" timestamp="1578582190004" />
+    <state width="1666" height="371" key="GridCell.Tab.0.bottom" timestamp="1578587433564">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state width="1666" height="371" key="GridCell.Tab.0.bottom/0.27.3440.1413@0.27.3440.1413" timestamp="1578587433564" />
+    <state width="1666" height="371" key="GridCell.Tab.0.center" timestamp="1578587433563">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state width="1666" height="371" key="GridCell.Tab.0.center/0.27.3440.1413@0.27.3440.1413" timestamp="1578587433563" />
+    <state width="1666" height="371" key="GridCell.Tab.0.left" timestamp="1578587433563">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state width="1666" height="371" key="GridCell.Tab.0.left/0.27.3440.1413@0.27.3440.1413" timestamp="1578587433563" />
+    <state width="1666" height="371" key="GridCell.Tab.0.right" timestamp="1578587433564">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state width="1666" height="371" key="GridCell.Tab.0.right/0.27.3440.1413@0.27.3440.1413" timestamp="1578587433564" />
+    <state x="2061" y="368" key="SettingsEditor" timestamp="1578587252578">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state x="2061" y="368" key="SettingsEditor/0.27.3440.1413@0.27.3440.1413" timestamp="1578587252578" />
   </component>
 </project>
