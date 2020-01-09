@@ -1,4 +1,6 @@
 import Hashes from 'jshashes';
+import lodash from 'lodash';
+
 class Socket {
     constructor (scoketUrl) {
         this.scoket_url = scoketUrl;
