@@ -1,0 +1,15 @@
+{
+  "name": "wssocket",
+  "version": "1.0.0",
+  "description": "一个websocket的封装,提供一些方便的功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jshashes": "^1.0.7",
+    "lodash": "^4.17.15"
+  },
+  "author": "dongasai 1514582970@qq.com",
+  "license": "ISC"
+}
